@@ -1,2 +1,14 @@
 # gamestop-maiqiu-pages
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
